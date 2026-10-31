@@ -1,17 +1,3 @@
-# Expense Tracker
-
-Full-stack expense tracker with JWT login.
-
-## Tech Stack
-- Backend: FastAPI, SQLAlchemy, SQLite
-- Auth: JWT (python-jose, passlib)
-- Frontend: React + Vite
-
-## Features
-- Sign up / log in
-- Add and delete expenses
-- Spending chart by category
-
 ## Run Locally
 
 Backend:
